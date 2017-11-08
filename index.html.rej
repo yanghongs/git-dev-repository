@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -2,7 +2,6 @@
+ <html>
+ <body>
+ 
+-	<h1> 정정회 안녕 </h1>
+ 	<h1> ����ȸ </h1>
+ 
+ </body>
